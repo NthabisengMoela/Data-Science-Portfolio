@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-A track record of my technical data science skills through solving real-world problems using data during my time at Explore Data Science Academy.
+A track record of my technical data science skills through solving real-world problems using data.
 
 Machine Learning Project :
 Projects that I completed  in a team through building Machine Learning models that are used to solve a real-world problem.The projects completed follow the sequence of Exploratory Data Analysis > Pre-Processing > Modelling > Model deployment using Flask/Streamlit
