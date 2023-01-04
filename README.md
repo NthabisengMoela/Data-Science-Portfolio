@@ -2,7 +2,7 @@
 A track record of my technical data science skills through solving real-world problems using data.
 
 Machine Learning Project :
-Projects that I completed  in a team through building Machine Learning models that are used to solve a real-world problem.The projects completed follow the sequence of Exploratory Data Analysis > Pre-Processing > Modelling > Model deployment using Flask/Streamlit
+Projects that I completed through building Machine Learning models that are used to solve a real-world problem.The projects completed follow the sequence of Exploratory Data Analysis > Pre-Processing > Modelling > Model deployment using Flask/Streamlit
 
 Coding Challenges:
 Coding excercises that i completed to refine my technical data science skills using Python. 
